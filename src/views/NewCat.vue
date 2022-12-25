@@ -41,7 +41,14 @@ export default {
     saveImage() {
       this.updatePosts({ id: Date.now(), author: 'My', img: this.previewImage });
       this.isLoaded = true;
+
+      setTimeout(this.clearPreview, 1500);
     },
+
+    clearPreview() {
+      this.isLoaded = false;
+      this.previewImage = null;
+    }
   }
 }
 </script>
