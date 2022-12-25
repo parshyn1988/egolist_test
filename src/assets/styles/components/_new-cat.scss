@@ -1,0 +1,17 @@
+.new-cat {
+  img {
+    margin-bottom: 20px;
+  }
+
+  input[type='file'] {
+    margin-bottom: 20px;
+  }
+
+  button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40px;
+    width: 120px;
+  }
+}

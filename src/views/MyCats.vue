@@ -1,5 +1,5 @@
 <template>
-  <div class="page home">
+  <div class="page my">
     <ul class="post-card__list">
       <li v-for="(post, index) in posts" :key="index">
         <post-card :author="post.author" :img-src="post.img" />
@@ -12,12 +12,13 @@
 import { posts } from '@/mixins/posts';
 
 export default {
-  name: 'HomeView',
+  name: 'MyCats',
 
   mixins: [ posts ],
 
   created() {
-    this.getPosts();
+    this.getPosts('?author=My');
   },
 }
 </script>
+

@@ -1,0 +1,248 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "author": "Petar",
+      "img": "/cats/1.jpg"
+    },
+    {
+      "id": 2,
+      "author": "Nick",
+      "img": "/cats/2.jpg"
+    },
+    {
+      "id": 3,
+      "author": "Nick",
+      "img": "/cats/3.jpg"
+    },
+    {
+      "id": 4,
+      "author": "Steve",
+      "img": "/cats/4.jpg"
+    },
+    {
+      "id": 5,
+      "author": "Nick",
+      "img": "/cats/5.jpg"
+    },
+    {
+      "id": 6,
+      "author": "Steve",
+      "img": "/cats/6.jpeg"
+    },
+    {
+      "id": 7,
+      "author": "Steve",
+      "img": "/cats/7.jpg"
+    },
+    {
+      "id": 8,
+      "author": "My",
+      "img": "/cats/8.jpg"
+    },
+    {
+      "id": 9,
+      "author": "My",
+      "img": "/cats/9.jpg"
+    },
+    {
+      "getters": {
+        "posts": [
+          {
+            "id": 1,
+            "author": "Petar",
+            "img": "/cats/1.jpg"
+          },
+          {
+            "id": 2,
+            "author": "Nick",
+            "img": "/cats/2.jpg"
+          },
+          {
+            "id": 3,
+            "author": "Nick",
+            "img": "/cats/3.jpg"
+          },
+          {
+            "id": 4,
+            "author": "Steve",
+            "img": "/cats/4.jpg"
+          },
+          {
+            "id": 5,
+            "author": "Nick",
+            "img": "/cats/5.jpg"
+          },
+          {
+            "id": 6,
+            "author": "Steve",
+            "img": "/cats/6.jpeg"
+          },
+          {
+            "id": 7,
+            "author": "Steve",
+            "img": "/cats/7.jpg"
+          },
+          {
+            "id": 8,
+            "author": "My",
+            "img": "/cats/8.jpg"
+          },
+          {
+            "id": 9,
+            "author": "My",
+            "img": "/cats/9.jpg"
+          }
+        ]
+      },
+      "state": {
+        "posts": [
+          {
+            "id": 1,
+            "author": "Petar",
+            "img": "/cats/1.jpg"
+          },
+          {
+            "id": 2,
+            "author": "Nick",
+            "img": "/cats/2.jpg"
+          },
+          {
+            "id": 3,
+            "author": "Nick",
+            "img": "/cats/3.jpg"
+          },
+          {
+            "id": 4,
+            "author": "Steve",
+            "img": "/cats/4.jpg"
+          },
+          {
+            "id": 5,
+            "author": "Nick",
+            "img": "/cats/5.jpg"
+          },
+          {
+            "id": 6,
+            "author": "Steve",
+            "img": "/cats/6.jpeg"
+          },
+          {
+            "id": 7,
+            "author": "Steve",
+            "img": "/cats/7.jpg"
+          },
+          {
+            "id": 8,
+            "author": "My",
+            "img": "/cats/8.jpg"
+          },
+          {
+            "id": 9,
+            "author": "My",
+            "img": "/cats/9.jpg"
+          }
+        ]
+      },
+      "rootGetters": {
+        "posts": [
+          {
+            "id": 1,
+            "author": "Petar",
+            "img": "/cats/1.jpg"
+          },
+          {
+            "id": 2,
+            "author": "Nick",
+            "img": "/cats/2.jpg"
+          },
+          {
+            "id": 3,
+            "author": "Nick",
+            "img": "/cats/3.jpg"
+          },
+          {
+            "id": 4,
+            "author": "Steve",
+            "img": "/cats/4.jpg"
+          },
+          {
+            "id": 5,
+            "author": "Nick",
+            "img": "/cats/5.jpg"
+          },
+          {
+            "id": 6,
+            "author": "Steve",
+            "img": "/cats/6.jpeg"
+          },
+          {
+            "id": 7,
+            "author": "Steve",
+            "img": "/cats/7.jpg"
+          },
+          {
+            "id": 8,
+            "author": "My",
+            "img": "/cats/8.jpg"
+          },
+          {
+            "id": 9,
+            "author": "My",
+            "img": "/cats/9.jpg"
+          }
+        ]
+      },
+      "rootState": {
+        "posts": [
+          {
+            "id": 1,
+            "author": "Petar",
+            "img": "/cats/1.jpg"
+          },
+          {
+            "id": 2,
+            "author": "Nick",
+            "img": "/cats/2.jpg"
+          },
+          {
+            "id": 3,
+            "author": "Nick",
+            "img": "/cats/3.jpg"
+          },
+          {
+            "id": 4,
+            "author": "Steve",
+            "img": "/cats/4.jpg"
+          },
+          {
+            "id": 5,
+            "author": "Nick",
+            "img": "/cats/5.jpg"
+          },
+          {
+            "id": 6,
+            "author": "Steve",
+            "img": "/cats/6.jpeg"
+          },
+          {
+            "id": 7,
+            "author": "Steve",
+            "img": "/cats/7.jpg"
+          },
+          {
+            "id": 8,
+            "author": "My",
+            "img": "/cats/8.jpg"
+          },
+          {
+            "id": 9,
+            "author": "My",
+            "img": "/cats/9.jpg"
+          }
+        ]
+      },
+      "id": 10
+    }
+  ]
+}

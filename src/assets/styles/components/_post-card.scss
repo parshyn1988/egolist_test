@@ -1,0 +1,28 @@
+.post-card {
+  display: flex;
+  flex-direction: column;
+
+  &__author {
+    margin-bottom: 5px;
+  }
+
+  img {
+    width: 50vw;
+    height: 50vw;
+    object-fit: contain;
+  }
+
+  &__list {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  &__list li {
+    list-style: none;
+
+    &:not(:last-of-type) {
+      margin-bottom: 20px;
+    }
+  }
+}
